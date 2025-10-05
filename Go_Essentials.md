@@ -6,3 +6,5 @@
    - Working with **Values and Types**
    - Creating & Executing **Functions**
    - Controlling Execution with **Control Structures**
+
+**2.Working with Functions and Values**
