@@ -8,3 +8,4 @@
    - Controlling Execution with **Control Structures**
 
 **2.Working with Functions and Values**
+Go is all about modules.
