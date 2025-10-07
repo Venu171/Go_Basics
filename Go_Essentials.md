@@ -9,4 +9,4 @@
 
 **2.Working with Functions and Values**
    - The __package__ clause is called the **top of file**  in go.Without this clause the GO program would cause the *error* saying the program should start with **package clause error**.
-   - 
+   - For every go project we need to enter this `go mod init <directory_name>`
